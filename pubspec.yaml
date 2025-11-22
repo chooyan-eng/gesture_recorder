@@ -1,6 +1,6 @@
 name: gesture_recorder
-description: "A new Flutter package project."
-version: 0.0.1
+description: "gesture_recorder enables you to record and replay gesture events"
+version: 0.1.0
 homepage:
 
 environment:
