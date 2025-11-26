@@ -83,6 +83,8 @@ class _GestureRecorderState extends State<GestureRecorder> {
   static const _devtoolsServiceMethod = 'ext.gesture_recorder.pushRecordedData';
   static const _devtoolsServiceReplay =
       'ext.gesture_recorder.replayRecordedData';
+  static const _devtoolsServiceStart = 'ext.gesture_recorder.startRecordedData';
+  static const _devtoolsServiceStop = 'ext.gesture_recorder.stopRecordedData';
 
   void _start() {
     final dispatcher = PlatformDispatcher.instance.onPointerDataPacket;
@@ -192,6 +194,20 @@ class _GestureRecorderState extends State<GestureRecorder> {
       }
 
       _replay(value.toData());
+      // Respond with a JSON message, in this case no need, so I left it empty.
+      return devtools.ServiceExtensionResponse.result(jsonEncode({}));
+    });
+
+    devtools.registerExtension(_devtoolsServiceStart,
+        (method, parameters) async {
+      _start();
+      // Respond with a JSON message, in this case no need, so I left it empty.
+      return devtools.ServiceExtensionResponse.result(jsonEncode({}));
+    });
+
+    devtools.registerExtension(_devtoolsServiceStop,
+        (method, parameters) async {
+      _stop();
       // Respond with a JSON message, in this case no need, so I left it empty.
       return devtools.ServiceExtensionResponse.result(jsonEncode({}));
     });

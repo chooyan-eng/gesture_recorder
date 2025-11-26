@@ -42,6 +42,7 @@ class _GestureRecorderExtensionHomeState
 
   Map<String, dynamic>? _parsedData;
   String? _error;
+  bool _isRecording = false;
 
   @override
   void initState() {
@@ -55,12 +56,22 @@ class _GestureRecorderExtensionHomeState
     super.dispose();
   }
 
+  bool _isConnected = false;
+
   Future<void> _init() async {
     // First thing to do is awaiting the vmService.
-    await _deviceCommunicator.init();
+    await _deviceCommunicator.init(
+      onConnected: () {
+        setState(() => _isConnected = true);
+      },
+    );
 
     _deviceCommunicator.listenGestureData((data) {
-      setState(() => _parsedData = jsonDecode(data));
+      setState(() {
+        _parsedData = jsonDecode(data);
+        // Reset recording state when new data arrives (after stop)
+        _isRecording = false;
+      });
     });
   }
 
@@ -79,14 +90,73 @@ class _GestureRecorderExtensionHomeState
     );
   }
 
+  Future<void> _startRecording() async {
+    if (_isRecording) return;
+
+    try {
+      await _deviceCommunicator.startGestureOnDevice();
+      setState(() {
+        _isRecording = true;
+      });
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Started recording on device'),
+          backgroundColor: Colors.green,
+        ),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Error starting recording: ${e.toString()}'),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
+  }
+
+  Future<void> _stopRecording() async {
+    if (!_isRecording) return;
+
+    try {
+      await _deviceCommunicator.stopGestureOnDevice();
+      setState(() {
+        _isRecording = false;
+      });
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Stopped recording on device'),
+          backgroundColor: Colors.orange,
+        ),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Error stopping recording: ${e.toString()}'),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    final connected = _deviceCommunicator.isConnected;
-
     return Scaffold(
       appBar: AppBar(
         title: const Text('Gesture Recorder'),
         actions: [
+          if (_isConnected)
+            IconButton(
+              icon: Icon(_isRecording ? Icons.stop : Icons.play_arrow),
+              onPressed: _isRecording ? _stopRecording : _startRecording,
+              tooltip: _isRecording
+                  ? 'Stop recording on device'
+                  : 'Start recording on device',
+              color: _isRecording ? Colors.red : Colors.green,
+            ),
           IconButton(
             icon: const Icon(Icons.folder),
             onPressed: _openSavedFilesDialog,
@@ -94,7 +164,7 @@ class _GestureRecorderExtensionHomeState
           ),
         ],
       ),
-      body: switch ((connected, _error, _parsedData)) {
+      body: switch ((_isConnected, _error, _parsedData)) {
         (false, _, _) => _Message(
           icon: Icons.link_off,
           title: 'Waiting for connection',

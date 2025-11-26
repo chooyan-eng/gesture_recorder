@@ -9,12 +9,20 @@ class DeviceCommunicator {
   StreamSubscription? _extensionEventSubscription;
   late final VmService _vmService;
   static const _serviceMethod = 'ext.gesture_recorder.pushRecordedData';
+  static const _devtoolsServiceStart = 'ext.gesture_recorder.startRecordedData';
+  static const _devtoolsServiceStop = 'ext.gesture_recorder.stopRecordedData';
   static const _devtoolsServiceReplay =
       'ext.gesture_recorder.replayRecordedData';
 
   /// Initialize the device communicator.
-  Future<void> init() async {
+  Future<void> init({required VoidCallback onConnected}) async {
     _vmService = await serviceManager.onServiceAvailable;
+
+    serviceManager.connectedState.addListener(() {
+      if (serviceManager.connectedState.value.connected) {
+        onConnected();
+      }
+    });
   }
 
   /// Whether the device is connected.
@@ -39,6 +47,20 @@ class DeviceCommunicator {
     await serviceManager.callServiceExtensionOnMainIsolate(
       _devtoolsServiceReplay,
       args: {'data': data},
+    );
+  }
+
+  /// Start the gesture recording on the device.
+  Future<void> startGestureOnDevice() async {
+    await serviceManager.callServiceExtensionOnMainIsolate(
+      _devtoolsServiceStart,
+    );
+  }
+
+  /// Stop the gesture recording on the device.
+  Future<void> stopGestureOnDevice() async {
+    await serviceManager.callServiceExtensionOnMainIsolate(
+      _devtoolsServiceStop,
     );
   }
 

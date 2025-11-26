@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  gesture_recorder:
+  gesture_recorder: 
     path: ../
   scribble: ^0.10.0+1
   shared_preferences: ^2.5.3
