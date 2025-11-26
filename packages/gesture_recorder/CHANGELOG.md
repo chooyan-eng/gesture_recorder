@@ -1,3 +1,7 @@
+## [0.3.1] - 2025.11.26
+
+* Add start/stop recording button to DevTools Extensions.
+
 ## [0.3.0] - 2025.11.26
 
 * Added DevTools Extensions for inspect recorded data

@@ -4,14 +4,14 @@
       "packet": {
         "data": [
           {
-            "timeStamp": 116746457943,
+            "timeStamp": 121136229269,
             "change": 1,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 4461775104,
             "pointerIdentifier": 0,
-            "physicalX": 408.99999999999994,
-            "physicalY": 664,
+            "physicalX": 428,
+            "physicalY": 853,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -34,14 +34,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116746457943,
+            "timeStamp": 121136229269,
             "change": 4,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 408.99999999999994,
-            "physicalY": 664,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 853,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -71,16 +71,16 @@
       "packet": {
         "data": [
           {
-            "timeStamp": 116746590785,
+            "timeStamp": 121136398786,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 402,
-            "physicalY": 664,
-            "physicalDeltaX": -6.999999999999943,
-            "physicalDeltaY": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 853.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0.9999999999998863,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -102,22 +102,22 @@
           }
         ]
       },
-      "timeSincePrevious": 131068
+      "timeSincePrevious": 163024
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746611601,
+            "timeStamp": 121136415521,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 398,
-            "physicalY": 664,
-            "physicalDeltaX": -4,
-            "physicalDeltaY": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 871.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 18,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -139,22 +139,22 @@
           }
         ]
       },
-      "timeSincePrevious": 25314
+      "timeSincePrevious": 17558
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746653300,
+            "timeStamp": 121136432469,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 396.99999999999994,
-            "physicalY": 662,
-            "physicalDeltaX": -1.0000000000000568,
-            "physicalDeltaY": -2,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 904,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 32.000000000000114,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -176,22 +176,22 @@
           }
         ]
       },
-      "timeSincePrevious": 50131
+      "timeSincePrevious": 17128
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746669821,
+            "timeStamp": 121136449046,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 402,
-            "physicalY": 652,
-            "physicalDeltaX": 5.000000000000057,
-            "physicalDeltaY": -10,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 988,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 84,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -213,22 +213,59 @@
           }
         ]
       },
-      "timeSincePrevious": 16631
+      "timeSincePrevious": 16877
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746686591,
+            "timeStamp": 121136465412,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 428,
+            "physicalY": 1109,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 121,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 21037
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136482162,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
             "physicalX": 431,
-            "physicalY": 636,
-            "physicalDeltaX": 29,
-            "physicalDeltaY": -16,
+            "physicalY": 1237,
+            "physicalDeltaX": 3,
+            "physicalDeltaY": 128,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -250,22 +287,22 @@
           }
         ]
       },
-      "timeSincePrevious": 16838
+      "timeSincePrevious": 16292
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746703259,
+            "timeStamp": 121136505345,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 494,
-            "physicalY": 617,
-            "physicalDeltaX": 63,
-            "physicalDeltaY": -19,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 456,
+            "physicalY": 1454,
+            "physicalDeltaX": 25,
+            "physicalDeltaY": 217,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -287,22 +324,22 @@
           }
         ]
       },
-      "timeSincePrevious": 16442
+      "timeSincePrevious": 31047
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746719924,
+            "timeStamp": 121136522533,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 566,
-            "physicalY": 605,
-            "physicalDeltaX": 72,
-            "physicalDeltaY": -12,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 476,
+            "physicalY": 1599.9999999999998,
+            "physicalDeltaX": 20,
+            "physicalDeltaY": 145.99999999999977,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -324,22 +361,22 @@
           }
         ]
       },
-      "timeSincePrevious": 16683
+      "timeSincePrevious": 15765
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746740784,
+            "timeStamp": 121136538591,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 650,
-            "physicalY": 603,
-            "physicalDeltaX": 84,
-            "physicalDeltaY": -2,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 497,
+            "physicalY": 1734,
+            "physicalDeltaX": 21,
+            "physicalDeltaY": 134.00000000000023,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -361,21 +398,206 @@
           }
         ]
       },
-      "timeSincePrevious": 16619
+      "timeSincePrevious": 18492
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746757649,
+            "timeStamp": 121136564839,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 724,
-            "physicalY": 603,
-            "physicalDeltaX": 74,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 513,
+            "physicalY": 1842,
+            "physicalDeltaX": 16,
+            "physicalDeltaY": 108,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 14267
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136587551,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 522,
+            "physicalY": 1899,
+            "physicalDeltaX": 9,
+            "physicalDeltaY": 57,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 31216
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136607641,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 527,
+            "physicalY": 1911.9999999999998,
+            "physicalDeltaX": 5,
+            "physicalDeltaY": 12.999999999999773,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 18304
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136623894,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 528,
+            "physicalY": 1916,
+            "physicalDeltaX": 1,
+            "physicalDeltaY": 4.000000000000227,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 18069
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136674502,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 529,
+            "physicalY": 1917.9999999999998,
+            "physicalDeltaX": 1,
+            "physicalDeltaY": 1.9999999999997726,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 46742
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121136731539,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 530,
+            "physicalY": 1917.9999999999998,
+            "physicalDeltaX": 1,
             "physicalDeltaY": 0,
             "buttons": 0,
             "obscured": false,
@@ -398,21 +620,148 @@
           }
         ]
       },
-      "timeSincePrevious": 17446
+      "timeSincePrevious": 50207
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746774621,
+            "timeStamp": 121136750418,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 531,
+            "physicalY": 1917.9999999999998,
+            "physicalDeltaX": 1,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121136750418,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 1,
+            "physicalX": 531,
+            "physicalY": 1917.9999999999998,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121136750418,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4461775104,
+            "pointerIdentifier": 0,
+            "physicalX": 531,
+            "physicalY": 1917.9999999999998,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 32753
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137165892,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 0,
+            "physicalX": 560,
+            "physicalY": 2096,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121137165892,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
             "pointerIdentifier": 2,
-            "physicalX": 768,
-            "physicalY": 603,
-            "physicalDeltaX": 44,
+            "physicalX": 560,
+            "physicalY": 2096,
+            "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
             "obscured": false,
@@ -435,21 +784,615 @@
           }
         ]
       },
-      "timeSincePrevious": 16393
+      "timeSincePrevious": 401677
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746791028,
+            "timeStamp": 121137240771,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 4471240176,
             "pointerIdentifier": 2,
-            "physicalX": 799,
-            "physicalY": 611,
-            "physicalDeltaX": 31,
+            "physicalX": 560,
+            "physicalY": 2031.9999999999998,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -64.00000000000023,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 81787
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137257080,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 2,
+            "physicalX": 560,
+            "physicalY": 1908,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -123.99999999999977,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 21272
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137274119,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 2,
+            "physicalX": 560,
+            "physicalY": 1710,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -198,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 22422
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137290474,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 2,
+            "physicalX": 560,
+            "physicalY": 1493,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -217,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 11067
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137307592,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 2,
+            "physicalX": 560,
+            "physicalY": 1397,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -96,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121137307592,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 2,
+            "physicalX": 560,
+            "physicalY": 1397,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121137307592,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4471240176,
+            "pointerIdentifier": 0,
+            "physicalX": 560,
+            "physicalY": 1397,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 15884
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137782903,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 0,
+            "physicalX": 515,
+            "physicalY": 1824,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121137782903,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1824,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 463954
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137845077,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1824.9999999999998,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0.9999999999997726,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 65109
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137865925,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1764.9999999999998,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -60,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 34128
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137899266,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1527,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -237.99999999999977,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 18503
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137916242,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1392,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -135,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 17917
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121137932117,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 3,
+            "physicalX": 515,
+            "physicalY": 1392,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121137932117,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4472348144,
+            "pointerIdentifier": 0,
+            "physicalX": 515,
+            "physicalY": 1392,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 15848
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121138354982,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4383270720,
+            "pointerIdentifier": 0,
+            "physicalX": 526,
+            "physicalY": 1202,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121138354982,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1202,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 431690
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121138374490,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1210,
+            "physicalDeltaX": 0,
             "physicalDeltaY": 8,
             "buttons": 0,
             "obscured": false,
@@ -472,428 +1415,21 @@
           }
         ]
       },
-      "timeSincePrevious": 16893
+      "timeSincePrevious": 16116
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116746807669,
+            "timeStamp": 121138396316,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 819,
-            "physicalY": 631,
-            "physicalDeltaX": 20,
-            "physicalDeltaY": 20,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16665
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746824195,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 829,
-            "physicalY": 651,
-            "physicalDeltaX": 10,
-            "physicalDeltaY": 20,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17250
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746845214,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 832,
-            "physicalY": 692,
-            "physicalDeltaX": 3,
-            "physicalDeltaY": 41,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16035
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746861941,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 807,
-            "physicalY": 727,
-            "physicalDeltaX": -25,
-            "physicalDeltaY": 35,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16381
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746878681,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 728,
-            "physicalY": 784,
-            "physicalDeltaX": -79,
-            "physicalDeltaY": 57,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16452
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746895303,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 569,
-            "physicalY": 862,
-            "physicalDeltaX": -159,
-            "physicalDeltaY": 78,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17081
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746911922,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 444,
-            "physicalY": 919,
-            "physicalDeltaX": -125,
-            "physicalDeltaY": 57,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16423
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746928506,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 292,
-            "physicalY": 994,
-            "physicalDeltaX": -152,
-            "physicalDeltaY": 75,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16896
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746966172,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 135,
-            "physicalY": 1104,
-            "physicalDeltaX": -157,
-            "physicalDeltaY": 110,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 33704
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116746982878,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 114,
-            "physicalY": 1135,
-            "physicalDeltaX": -21,
-            "physicalDeltaY": 31,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 33468
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747004203,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 110,
-            "physicalY": 1165,
-            "physicalDeltaX": -4,
-            "physicalDeltaY": 30,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 15770
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747024018,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 126.99999999999999,
-            "physicalY": 1193,
-            "physicalDeltaX": 16.999999999999986,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1238,
+            "physicalDeltaX": 0,
             "physicalDeltaY": 28,
             "buttons": 0,
             "obscured": false,
@@ -916,355 +1452,22 @@
           }
         ]
       },
-      "timeSincePrevious": 16902
+      "timeSincePrevious": 16235
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116747044869,
+            "timeStamp": 121138420173,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 195,
-            "physicalY": 1205,
-            "physicalDeltaX": 68.00000000000001,
-            "physicalDeltaY": 12,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16459
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747061490,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 286,
-            "physicalY": 1212,
-            "physicalDeltaX": 91,
-            "physicalDeltaY": 7,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16477
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747078225,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 383,
-            "physicalY": 1217,
-            "physicalDeltaX": 97,
-            "physicalDeltaY": 5,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16765
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747094997,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 444,
-            "physicalY": 1219,
-            "physicalDeltaX": 61,
-            "physicalDeltaY": 2,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16618
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747111547,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 491,
-            "physicalY": 1225,
-            "physicalDeltaX": 47,
-            "physicalDeltaY": 6,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16627
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747130523,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 510,
-            "physicalY": 1230,
-            "physicalDeltaX": 19,
-            "physicalDeltaY": 5,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17034
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747149151,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 520,
-            "physicalY": 1244,
-            "physicalDeltaX": 10,
-            "physicalDeltaY": 14,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16323
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747165996,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 522,
-            "physicalY": 1258,
-            "physicalDeltaX": 2,
-            "physicalDeltaY": 14,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16795
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747182709,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 523,
-            "physicalY": 1276,
-            "physicalDeltaX": 1,
-            "physicalDeltaY": 18,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16920
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747199263,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 523,
-            "physicalY": 1294,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1312,
             "physicalDeltaX": 0,
-            "physicalDeltaY": 18,
+            "physicalDeltaY": 74,
             "buttons": 0,
             "obscured": false,
             "synthesized": false,
@@ -1286,50 +1489,131 @@
           }
         ]
       },
-      "timeSincePrevious": 16163
+      "timeSincePrevious": 32946
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116747220851,
+            "timeStamp": 121138436330,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 523,
-            "physicalY": 1300,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1387,
             "physicalDeltaX": 0,
-            "physicalDeltaY": 6,
+            "physicalDeltaY": 75,
             "buttons": 0,
             "obscured": false,
-            "synthesized": true,
+            "synthesized": false,
             "pressure": 0,
             "pressureMin": 0,
             "pressureMax": 0,
             "distance": 0,
             "distanceMax": 0,
             "size": 0,
-            "radiusMajor": 0,
+            "radiusMajor": 20,
             "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
             "orientation": -1.5707963267948966,
             "tilt": 0,
             "platformData": 0,
             "scrollDeltaX": 0,
             "scrollDeltaY": 0
-          },
+          }
+        ]
+      },
+      "timeSincePrevious": 18580
+    },
+    {
+      "packet": {
+        "data": [
           {
-            "timeStamp": 116747220851,
+            "timeStamp": 121138453264,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1505,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 118,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 16963
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121138470208,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1611,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 106,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 15012
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121138482435,
             "change": 6,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 2,
-            "physicalX": 523,
-            "physicalY": 1300,
+            "device": 4383270720,
+            "pointerIdentifier": 4,
+            "physicalX": 526,
+            "physicalY": 1611,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -1352,14 +1636,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116747220851,
+            "timeStamp": 121138482435,
             "change": 2,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 4383270720,
             "pointerIdentifier": 0,
-            "physicalX": 523,
-            "physicalY": 1300,
+            "physicalX": 526,
+            "physicalY": 1611,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -1383,20 +1667,20 @@
           }
         ]
       },
-      "timeSincePrevious": 33500
+      "timeSincePrevious": 4235
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116747570397,
+            "timeStamp": 121139307397,
             "change": 1,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 5818564736,
             "pointerIdentifier": 0,
-            "physicalX": 325,
-            "physicalY": 1288,
+            "physicalX": 507,
+            "physicalY": 1384,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -1419,14 +1703,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116747570397,
+            "timeStamp": 121139307397,
             "change": 4,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 325,
-            "physicalY": 1288,
+            "device": 5818564736,
+            "pointerIdentifier": 5,
+            "physicalX": 507,
+            "physicalY": 1384,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -1450,1241 +1734,20 @@
           }
         ]
       },
-      "timeSincePrevious": 339150
+      "timeSincePrevious": 829884
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116747640870,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 324,
-            "physicalY": 1288,
-            "physicalDeltaX": -1,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 77690
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747657677,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 341,
-            "physicalY": 1288,
-            "physicalDeltaX": 17,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 18042
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747674443,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 364,
-            "physicalY": 1280,
-            "physicalDeltaX": 23,
-            "physicalDeltaY": -8,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 15436
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747695143,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 422,
-            "physicalY": 1251,
-            "physicalDeltaX": 58,
-            "physicalDeltaY": -29,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16707
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747711712,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 503,
-            "physicalY": 1209,
-            "physicalDeltaX": 81,
-            "physicalDeltaY": -42,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16625
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747731318,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 610,
-            "physicalY": 1160,
-            "physicalDeltaX": 107,
-            "physicalDeltaY": -49,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 33137
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747753622,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 732,
-            "physicalY": 1120,
-            "physicalDeltaX": 122,
-            "physicalDeltaY": -40,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17385
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747770364,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 787.9999999999999,
-            "physicalY": 1113,
-            "physicalDeltaX": 55.999999999999886,
-            "physicalDeltaY": -7,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 15739
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747786963,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 819,
-            "physicalY": 1110,
-            "physicalDeltaX": 31.000000000000114,
-            "physicalDeltaY": -3,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16597
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747807757,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 840,
-            "physicalY": 1111,
-            "physicalDeltaX": 21,
-            "physicalDeltaY": 1,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17218
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747824417,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 834,
-            "physicalY": 1132,
-            "physicalDeltaX": -6,
-            "physicalDeltaY": 21,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16558
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747840986,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 772.9999999999999,
-            "physicalY": 1190,
-            "physicalDeltaX": -61.000000000000114,
-            "physicalDeltaY": 58,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17340
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747857716,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 686,
-            "physicalY": 1253,
-            "physicalDeltaX": -86.99999999999989,
-            "physicalDeltaY": 63,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16455
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747874404,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 579,
-            "physicalY": 1334,
-            "physicalDeltaX": -107,
-            "physicalDeltaY": 81,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16849
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747895006,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 523,
-            "physicalY": 1392,
-            "physicalDeltaX": -56,
-            "physicalDeltaY": 58,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 15470
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747911513,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 503,
-            "physicalY": 1425,
-            "physicalDeltaX": -20,
-            "physicalDeltaY": 33,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16533
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747928280,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 500,
-            "physicalY": 1455,
-            "physicalDeltaX": -3,
-            "physicalDeltaY": 30,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17253
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747945316,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 510.99999999999994,
-            "physicalY": 1476,
-            "physicalDeltaX": 10.999999999999943,
-            "physicalDeltaY": 21,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17233
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747961921,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 552,
-            "physicalY": 1503,
-            "physicalDeltaX": 41.00000000000006,
-            "physicalDeltaY": 27,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 15976
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747978251,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 585,
-            "physicalY": 1524,
-            "physicalDeltaX": 33,
-            "physicalDeltaY": 21,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16680
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116747999141,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 632,
-            "physicalY": 1572.9999999999998,
-            "physicalDeltaX": 47,
-            "physicalDeltaY": 48.99999999999977,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16710
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748032513,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 640,
-            "physicalY": 1700,
-            "physicalDeltaX": 8,
-            "physicalDeltaY": 127.00000000000023,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 32953
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748049114,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 584,
-            "physicalY": 1832,
-            "physicalDeltaX": -56,
-            "physicalDeltaY": 132,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16906
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748065811,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 516,
-            "physicalY": 1938.9999999999998,
-            "physicalDeltaX": -68,
-            "physicalDeltaY": 106.99999999999977,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17190
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748088736,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 447.99999999999994,
-            "physicalY": 2037.9999999999998,
-            "physicalDeltaX": -68.00000000000006,
-            "physicalDeltaY": 99,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 32954
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748111585,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 402.99999999999994,
-            "physicalY": 2103,
-            "physicalDeltaX": -45,
-            "physicalDeltaY": 65.00000000000023,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16476
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748128276,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 387.99999999999994,
-            "physicalY": 2124,
-            "physicalDeltaX": -15,
-            "physicalDeltaY": 21,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16833
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748146859,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 382,
-            "physicalY": 2135,
-            "physicalDeltaX": -5.999999999999943,
-            "physicalDeltaY": 11,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16584
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748169938,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 381,
-            "physicalY": 2142,
-            "physicalDeltaX": -1,
-            "physicalDeltaY": 7,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 33409
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748190701,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 384.99999999999994,
-            "physicalY": 2146,
-            "physicalDeltaX": 3.999999999999943,
-            "physicalDeltaY": 4,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16744
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748207352,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 401,
-            "physicalY": 2150,
-            "physicalDeltaX": 16.000000000000057,
-            "physicalDeltaY": 4,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16489
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748224040,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 423,
-            "physicalY": 2154,
-            "physicalDeltaX": 22,
-            "physicalDeltaY": 4,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16845
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748240692,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 447.99999999999994,
-            "physicalY": 2154,
-            "physicalDeltaX": 24.999999999999943,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16412
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748253569,
+            "timeStamp": 121139382717,
             "change": 6,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 3,
-            "physicalX": 447.99999999999994,
-            "physicalY": 2154,
+            "device": 5818564736,
+            "pointerIdentifier": 5,
+            "physicalX": 507,
+            "physicalY": 1384,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -2707,14 +1770,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116748253569,
+            "timeStamp": 121139382717,
             "change": 2,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 5818564736,
             "pointerIdentifier": 0,
-            "physicalX": 447.99999999999994,
-            "physicalY": 2154,
+            "physicalX": 507,
+            "physicalY": 1384,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -2738,20 +1801,20 @@
           }
         ]
       },
-      "timeSincePrevious": 16972
+      "timeSincePrevious": 82151
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116748699478,
+            "timeStamp": 121140579795,
             "change": 1,
             "kind": 0,
             "signalKind": 0,
-            "device": 4343925856,
+            "device": 5818564736,
             "pointerIdentifier": 0,
-            "physicalX": 820.9999999999999,
-            "physicalY": 1904,
+            "physicalX": 766,
+            "physicalY": 1790,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -2774,14 +1837,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116748699478,
+            "timeStamp": 121140579795,
             "change": 4,
             "kind": 0,
             "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 4,
-            "physicalX": 820.9999999999999,
-            "physicalY": 1904,
+            "device": 5818564736,
+            "pointerIdentifier": 6,
+            "physicalX": 766,
+            "physicalY": 1790,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -2805,21 +1868,118 @@
           }
         ]
       },
-      "timeSincePrevious": 433162
+      "timeSincePrevious": 1184737
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116748795004,
-            "change": 5,
+            "timeStamp": 121140665930,
+            "change": 6,
             "kind": 0,
             "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 4,
-            "physicalX": 820,
-            "physicalY": 1904,
-            "physicalDeltaX": -0.9999999999998863,
+            "device": 5818564736,
+            "pointerIdentifier": 6,
+            "physicalX": 766,
+            "physicalY": 1790,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121140665930,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 5818564736,
+            "pointerIdentifier": 0,
+            "physicalX": 766,
+            "physicalY": 1790,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 101283
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121141713579,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 5818571648,
+            "pointerIdentifier": 0,
+            "physicalX": 596,
+            "physicalY": 1060,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121141713579,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 5818571648,
+            "pointerIdentifier": 7,
+            "physicalX": 596,
+            "physicalY": 1060,
+            "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
             "obscured": false,
@@ -2842,154 +2002,526 @@
           }
         ]
       },
-      "timeSincePrevious": 99672
+      "timeSincePrevious": 1034883
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116748815662,
+            "timeStamp": 121141811859,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 5818571648,
+            "pointerIdentifier": 7,
+            "physicalX": 596,
+            "physicalY": 1060,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121141811859,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 5818571648,
+            "pointerIdentifier": 0,
+            "physicalX": 596,
+            "physicalY": 1060,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 95696
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121143419967,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 0,
+            "physicalX": 10,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121143419967,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 10,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 1633697
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121143436559,
             "change": 5,
             "kind": 0,
             "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 4,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 58,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 48,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 17383
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121143453989,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 151,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 93,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 16205
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121143470059,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 298,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 147,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 5961
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121143491970,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 353,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 55,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121143491970,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 8,
+            "physicalX": 353,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121143491970,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 0,
+            "physicalX": 353,
+            "physicalY": 958.9999999999999,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 14121
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121144744772,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4473044896,
+            "pointerIdentifier": 0,
+            "physicalX": 1104,
+            "physicalY": 220,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121144744772,
+            "change": 4,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4473044896,
+            "pointerIdentifier": 9,
+            "physicalX": 1104,
+            "physicalY": 220,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 20,
+            "radiusMinor": 0,
+            "radiusMin": 15,
+            "radiusMax": 25,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 1247278
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121144829128,
+            "change": 5,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4473044896,
+            "pointerIdentifier": 9,
+            "physicalX": 1104,
+            "physicalY": 219,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": -1,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": true,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121144829128,
+            "change": 6,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4473044896,
+            "pointerIdentifier": 9,
+            "physicalX": 1104,
+            "physicalY": 219,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          },
+          {
+            "timeStamp": 121144829128,
+            "change": 2,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 4473044896,
+            "pointerIdentifier": 0,
+            "physicalX": 1104,
+            "physicalY": 219,
+            "physicalDeltaX": 0,
+            "physicalDeltaY": 0,
+            "buttons": 0,
+            "obscured": false,
+            "synthesized": false,
+            "pressure": 0,
+            "pressureMin": 0,
+            "pressureMax": 0,
+            "distance": 0,
+            "distanceMax": 0,
+            "size": 0,
+            "radiusMajor": 0,
+            "radiusMinor": 0,
+            "radiusMin": 0,
+            "radiusMax": 0,
+            "orientation": -1.5707963267948966,
+            "tilt": 0,
+            "platformData": 0,
+            "scrollDeltaX": 0,
+            "scrollDeltaY": 0
+          }
+        ]
+      },
+      "timeSincePrevious": 82944
+    },
+    {
+      "packet": {
+        "data": [
+          {
+            "timeStamp": 121146095573,
+            "change": 1,
+            "kind": 0,
+            "signalKind": 0,
+            "device": 6119508176,
+            "pointerIdentifier": 0,
             "physicalX": 817.9999999999999,
-            "physicalY": 1904,
-            "physicalDeltaX": -2.0000000000001137,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16710
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116748899473,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 4,
-            "physicalX": 817,
-            "physicalY": 1904,
-            "physicalDeltaX": -0.9999999999998863,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": true,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116748899473,
-            "change": 6,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 4,
-            "physicalX": 817,
-            "physicalY": 1904,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116748899473,
-            "change": 2,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4343925856,
-            "pointerIdentifier": 0,
-            "physicalX": 817,
-            "physicalY": 1904,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 83326
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749095360,
-            "change": 1,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 0,
-            "physicalX": 805,
-            "physicalY": 2094,
+            "physicalY": 1641.9999999999998,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -3012,14 +2544,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116749095360,
+            "timeStamp": 121146095573,
             "change": 4,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 805,
-            "physicalY": 2094,
+            "device": 6119508176,
+            "pointerIdentifier": 10,
+            "physicalX": 817.9999999999999,
+            "physicalY": 1641.9999999999998,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -3043,242 +2575,20 @@
           }
         ]
       },
-      "timeSincePrevious": 197310
+      "timeSincePrevious": 1266939
     },
     {
       "packet": {
         "data": [
           {
-            "timeStamp": 116749115693,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2125,
-            "physicalDeltaX": -4,
-            "physicalDeltaY": 31,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 19346
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749136504,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2140,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 15,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 33647
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749153180,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2153,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 13,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16770
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749170073,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2165,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 12,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16642
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749186530,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2178,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 13,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 16248
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749203253,
-            "change": 5,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2184,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 6,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 17788
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749279301,
+            "timeStamp": 121146194825,
             "change": 6,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 5,
-            "physicalX": 801,
-            "physicalY": 2184,
+            "device": 6119508176,
+            "pointerIdentifier": 10,
+            "physicalX": 817.9999999999999,
+            "physicalY": 1641.9999999999998,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -3301,14 +2611,14 @@
             "scrollDeltaY": 0
           },
           {
-            "timeStamp": 116749279301,
+            "timeStamp": 121146194825,
             "change": 2,
             "kind": 0,
             "signalKind": 0,
-            "device": 5530211376,
+            "device": 6119508176,
             "pointerIdentifier": 0,
-            "physicalX": 801,
-            "physicalY": 2184,
+            "physicalX": 817.9999999999999,
+            "physicalY": 1641.9999999999998,
             "physicalDeltaX": 0,
             "physicalDeltaY": 0,
             "buttons": 0,
@@ -3332,409 +2642,7 @@
           }
         ]
       },
-      "timeSincePrevious": 66129
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749599572,
-            "change": 1,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5529158272,
-            "pointerIdentifier": 0,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": true,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116749599572,
-            "change": 4,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5529158272,
-            "pointerIdentifier": 6,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 317410
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749696264,
-            "change": 6,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5529158272,
-            "pointerIdentifier": 6,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116749696264,
-            "change": 2,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5529158272,
-            "pointerIdentifier": 0,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 100298
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749774863,
-            "change": 1,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4344397584,
-            "pointerIdentifier": 0,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": true,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116749774863,
-            "change": 4,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4344397584,
-            "pointerIdentifier": 7,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 82903
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116749922682,
-            "change": 6,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4344397584,
-            "pointerIdentifier": 7,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116749922682,
-            "change": 2,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 4344397584,
-            "pointerIdentifier": 0,
-            "physicalX": 1053,
-            "physicalY": 2288,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 149732
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116750633369,
-            "change": 1,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 0,
-            "physicalX": 722,
-            "physicalY": 1527,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": true,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116750633369,
-            "change": 4,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 8,
-            "physicalX": 722,
-            "physicalY": 1527,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 20,
-            "radiusMinor": 0,
-            "radiusMin": 15,
-            "radiusMax": 25,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 717442
-    },
-    {
-      "packet": {
-        "data": [
-          {
-            "timeStamp": 116750721889,
-            "change": 6,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 8,
-            "physicalX": 722,
-            "physicalY": 1527,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          },
-          {
-            "timeStamp": 116750721889,
-            "change": 2,
-            "kind": 0,
-            "signalKind": 0,
-            "device": 5530211376,
-            "pointerIdentifier": 0,
-            "physicalX": 722,
-            "physicalY": 1527,
-            "physicalDeltaX": 0,
-            "physicalDeltaY": 0,
-            "buttons": 0,
-            "obscured": false,
-            "synthesized": false,
-            "pressure": 0,
-            "pressureMin": 0,
-            "pressureMax": 0,
-            "distance": 0,
-            "distanceMax": 0,
-            "size": 0,
-            "radiusMajor": 0,
-            "radiusMinor": 0,
-            "radiusMin": 0,
-            "radiusMax": 0,
-            "orientation": -1.5707963267948966,
-            "tilt": 0,
-            "platformData": 0,
-            "scrollDeltaX": 0,
-            "scrollDeltaY": 0
-          }
-        ]
-      },
-      "timeSincePrevious": 84502
+      "timeSincePrevious": 100111
     }
   ],
   "screenSize": {

@@ -267,15 +267,6 @@ class _GestureInspectorState extends State<GestureInspector> {
                 ),
                 const SizedBox(height: 16),
                 ElevatedButton.icon(
-                  onPressed: widget.data.isEmpty ? null : _saveToWorkspace,
-                  icon: const Icon(Icons.save),
-                  label: const Text('Save'),
-                  style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                  ),
-                ),
-                const SizedBox(height: 16),
-                ElevatedButton.icon(
                   onPressed:
                       widget.deviceCommunicator.isConnected &&
                           !widget.data.isEmpty
@@ -288,6 +279,32 @@ class _GestureInspectorState extends State<GestureInspector> {
                   ),
                 ),
                 const SizedBox(height: 16),
+                ElevatedButton.icon(
+                  onPressed:
+                      widget.deviceCommunicator.isConnected &&
+                          !widget.data.isEmpty
+                      ? () {
+                          _replayOnDevice();
+                          _startReplay();
+                        }
+                      : null,
+                  icon: const Icon(Icons.phone_android),
+                  label: const Text('Replay Both'),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                  ),
+                ),
+                const SizedBox(height: 16),
+                ElevatedButton.icon(
+                  onPressed: widget.data.isEmpty ? null : _saveToWorkspace,
+                  icon: const Icon(Icons.save),
+                  label: const Text('Save'),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                  ),
+                ),
+                const SizedBox(height: 16),
+
                 if (_isPlaying)
                   Text(
                     'Playing event ${_currentEventIndex + 1}',

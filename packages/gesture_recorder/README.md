@@ -79,6 +79,7 @@ By using the tool, you can:
 - inspect recorded gesture data
 - save the recorded data to connecting IDE
 - load the recorded data from connecting IDE
+- start/stop recording gesture on the connected device
 - replay recorded data on the connected device
 
 # Contact
